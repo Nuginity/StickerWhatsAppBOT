@@ -1,7 +1,7 @@
 {
-    "name": "StickerBOT",
-    "author": "DrelezTM",
-    "prefix": "!",
+    "name": "STBot",
+    "author": "nuginity",
+    "prefix": "/",
     "timezone": "Asia/Jakarta",
     "groups": true,
     "log": true
